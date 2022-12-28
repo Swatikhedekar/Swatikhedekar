@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...khedekarswati75@gmail.com
 - 
-https://www.kaggle.com/swatikhedekar
+- kaggle https://www.kaggle.com/swatikhedekar
 
 https://www.linkedin.com/in/swati-khedekar-9800a9172/
 <!---
