@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Swatikhedekar
 - 👀 I’m interested in entry level  Data Analyst job role...
 - 🌱 I’m currently learning full Stack Data Analytics Course from iNeuron.ai...
-- 💞️ I’m looking to an organization to give me chance to enhance my skills. 
+- 💞️ I’m looking to collaborate to an organization to give me chance to enhance my skills. 
 - 📫 How to reach me: khedekarswati75@gmail.com
 - **kaggle**: https://www.kaggle.com/swatikhedekar
 - **linkedin**: https://www.linkedin.com/in/swati-khedekar-9800a9172/
