@@ -1,6 +1,6 @@
 ## Hello Thank you for visiting on my Profile!!
 - 👋 Hi, I’m Swati khedekar
-- 👀 I’m interested in entry level  Data Analyst job role.
+- 👀 Business Analyst @CHOICEDGE.
 - 🌱 I’m currently pursuing full Stack Data Analytics Course from iNeuron.ai.
 - 🌱 Pursuing Matillion ETL from Analytics with Anand
 - 💞️ I’m looking to collaborate to an organization to give me chance to enhance my skills. 
