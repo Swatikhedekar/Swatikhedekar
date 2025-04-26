@@ -2,7 +2,9 @@
 I am Data professional with 2+ years of experience in Python, SQL, Power BI, Snowflake, AWS, Matillion, and Alteryx ETL. Successfully transitioned from a mechanical engineer to Data Analyst.
 
 ✔ Good Hands-on experience working with Databases, schemas and automating workflows and optimizing business processes and warehouse such as Snowflake, Trino & MySQL
+
 ✔ Auto ingest large data from AWS s3 to snowflake by using Snow pipe and integrating with Power BI.
+
 ✔ Data Modelling & build Real-time interactive power BI reports.
 ✔ Conducted market research, data mining, data mapping, normalization & pipeline automation 
 ✔ Experience in CRM Bitrix24 Implementation, workflow automation and task scheduling.
