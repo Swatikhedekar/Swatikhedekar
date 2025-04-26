@@ -6,11 +6,16 @@ I am Data professional with 2+ years of experience in Python, SQL, Power BI, Sno
 ✔ Auto ingest large data from AWS s3 to snowflake by using Snow pipe and integrating with Power BI.
 
 ✔ Data Modelling & build Real-time interactive power BI reports.
-✔ Conducted market research, data mining, data mapping, normalization & pipeline automation 
+✔ Conducted market research, data mining, data mapping, normalizatio
+n & pipeline automation 
 ✔ Experience in CRM Bitrix24 Implementation, workflow automation and task scheduling.
+
 ✔ I have experience as Data Administrator, with a focus on data privacy and data integrity.
+
 ✔ Experienced in ETL tools such as Matillion and Alteryx to design, develop, and manage data pipelines for efficient data integration and transformation.
+
 ✔ Collaborated with cross-functional teams to drive data-driven strategies and understand data requirements and deliver solutions that meet business needs.
+
 🔍 Open for better opportunity to develop my skills and career growth.
 - 👋 Hi, I’m Swati khedekar
 - 👀 Business Analyst @CHOICEDGE.
