@@ -20,7 +20,7 @@ I am Data professional with 2+ years of experience in Python, SQL, Power BI, Sno
 ✔ Collaborated with cross-functional teams to drive data-driven strategies and understand data requirements and deliver solutions that meet business needs.
 
 🔍 Open for better opportunity to develop my skills and career growth.
--
+- I am Currently leaning about Data Science tools, techniques, AI, ML, NLP.
 - 📫 How to reach me: khedekarswati75@gmail.com
 - **kaggle**: https://www.kaggle.com/swatikhedekar
 - **linkedin**: https://www.linkedin.com/in/swati-khedekar/
