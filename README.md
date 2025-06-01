@@ -1,7 +1,7 @@
 ## Hello Thank you for visiting on my Profile!!
 👋 Hi, I’m Swati khedekar Business Analyst @CHOICEDGE.
   
-I am Data professional with 2+ years of experience in Python, SQL, Power BI, Snowflake, AWS, Matillion, and Alteryx ETL. Successfully transitioned from a mechanical engineer to Data Analyst.
+I am Data professional with 2+ years of experience in Python, SQL, Power BI, Snowflake, AWS, Azure, Matillion, and Alteryx ETL. Successfully transitioned from a mechanical engineer to Data Analyst.
 
 ✔ Good Hands-on experience working with Databases, schemas and automating workflows and optimizing business processes and warehouse such as Snowflake, Trino & MySQL
 
