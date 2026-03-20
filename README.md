@@ -1,10 +1,9 @@
 ## Hello Thank you for visiting on my Profile!!
-👋 Hi, I’m Swati khedekar Business Analyst @CHOICEDGE.
+👋 Hi, I’m Swati Khedekar Business Analyst @CHOICEDGE.
   
 I am Data professional with 3+ years of experience in Python, SQL, Power BI, Snowflake, AWS, Azure, Matillion, and Alteryx ETL. Successfully transitioned from a mechanical engineer to Data Analyst.
 
 I enjoy transforming raw data into actionable insights and building scalable data pipelines.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -16,7 +15,6 @@ I enjoy transforming raw data into actionable insights and building scalable dat
 - **Other:** Git, Data Modeling, Workflow Automation
 ---
 ## 🔥 What I Have Built
-
 - Built a production-grade data pipeline using Snowflake, AWS S3, and Snowpipe for automated data ingestion and processing  
 - Designed scalable data warehouse models (Star & Snowflake schema) with optimized query performance  
 - Developed end-to-end ETL/ELT pipelines using Matillion & Alteryx for large-scale data transformation  
@@ -30,13 +28,13 @@ I enjoy transforming raw data into actionable insights and building scalable dat
 ✔ Built intelligent analytics pipelines using Snowflake Cortex AI for:
    - Natural language querying (Text-to-SQL)
    - Sentiment analysis on customer feedback
-   - Automated insight generation from structured + unstructured data  
+   - Automated insight generation from structured + unstructured data
+     
+✔ Integrated Cortex AI with Snowflake tables to enable business users to query data using plain English
 
-✔ Integrated Cortex AI with Snowflake tables to enable business users to query data using plain English  
 ✔ Designed pipelines combining structured data (warehouse) and unstructured data (reviews, logs)
 
 ---
-  
 - 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swati-blue?logo=linkedin)](https://www.linkedin.com/in/swati-khedekar/)
 <!---
