@@ -1,22 +1,32 @@
 ## Hello Thank you for visiting on my Profile!!
 👋 Hi, I’m Swati khedekar Business Analyst @CHOICEDGE.
   
-I am Data professional with 2+ years of experience in Python, SQL, Power BI, Snowflake, AWS, Azure, Matillion, and Alteryx ETL. Successfully transitioned from a mechanical engineer to Data Analyst.
+I am Data professional with 3+ years of experience in Python, SQL, Power BI, Snowflake, AWS, Azure, Matillion, and Alteryx ETL. Successfully transitioned from a mechanical engineer to Data Analyst.
 
-✔ Good Hands-on experience working with Databases, schemas and automating workflows and optimizing business processes and warehouse such as Snowflake, Trino & MySQL
+I enjoy transforming raw data into actionable insights and building scalable data pipelines.
 
-✔ Auto ingest large data from AWS s3 to snowflake by using Snow pipe and integrating with Power BI.
+---
 
-✔ Data Modelling & build Real-time interactive power BI reports with KPI and metrix using DAX.
-
-✔ Experience in CRM Bitrix24 Implementation, workflow automation and task scheduling.
-
-✔ I have experience as Data Administrator, with a focus on data privacy and data integrity.
-
-✔ Experienced in ETL tools such as Matillion and Alteryx to design, develop, and manage data pipelines for efficient data integration and transformation.
-
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL  
+- **Data Warehousing:** Snowflake, Trino, MySQL  
+- **ETL Tools:** Matillion, Alteryx,dbt, airflow,docker
+- **Cloud:** AWS (S3), Azure  
+- **BI Tools:** Power BI (DAX, Data Modeling)  
+- **Other:** Git, Data Modeling, Workflow Automation
+---
+## 🔥 What I Have Built
+✔ Built a production-grade data pipeline using Snowflake, AWS S3, and Snowpipe for automated data ingestion and processing  
+✔ Designed scalable data warehouse models (Star & Snowflake schema) with optimized query performance  
+✔ Developed end-to-end ETL/ELT pipelines using Matillion & Alteryx for large-scale data transformation  
+✔ Created real-time Power BI dashboards with advanced DAX, KPIs, and business insights  
+✔ Implemented workflow automation and CRM integration (Bitrix24) for business process optimization  
+✔ Ensured data governance, integrity, and security as a Data Administrator  
+---
+  
 🔍 Open for better opportunity to develop my skills and career growth.
 - I am Currently leaning about Data Science tools, techniques, AI, ML, NLP.
+  
 - 📫 How to reach me: khedekarswati75@gmail.com
 - **kaggle**: https://www.kaggle.com/swatikhedekar
 - **linkedin**: https://www.linkedin.com/in/swati-khedekar/
