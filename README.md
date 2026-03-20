@@ -16,16 +16,26 @@ I enjoy transforming raw data into actionable insights and building scalable dat
 - **Other:** Git, Data Modeling, Workflow Automation
 ---
 ## 🔥 What I Have Built
-✔ Built a production-grade data pipeline using Snowflake, AWS S3, and Snowpipe for automated data ingestion and processing  
-✔ Designed scalable data warehouse models (Star & Snowflake schema) with optimized query performance  
-✔ Developed end-to-end ETL/ELT pipelines using Matillion & Alteryx for large-scale data transformation  
-✔ Created real-time Power BI dashboards with advanced DAX, KPIs, and business insights  
-✔ Implemented workflow automation and CRM integration (Bitrix24) for business process optimization  
-✔ Ensured data governance, integrity, and security as a Data Administrator  
+
+- Built a production-grade data pipeline using Snowflake, AWS S3, and Snowpipe for automated data ingestion and processing  
+- Designed scalable data warehouse models (Star & Snowflake schema) with optimized query performance  
+- Developed end-to-end ETL/ELT pipelines using Matillion & Alteryx for large-scale data transformation  
+- Created real-time Power BI dashboards with advanced DAX, KPIs, and business insights  
+- Implemented workflow automation and CRM integration (Bitrix24) for business process optimization  
+- Ensured data governance, integrity, and security as a Data Administrator  
 ---
   
-🔍 Open for better opportunity to develop my skills and career growth.
-- I am Currently leaning about Data Science tools, techniques, AI, ML, NLP.
+🔍 Open for better opportunity to develop my skills and career growth. 
+## 🤖 AI-Powered Data Engineering (Snowflake Cortex)
+✔ Built intelligent analytics pipelines using Snowflake Cortex AI for:
+   - Natural language querying (Text-to-SQL)
+   - Sentiment analysis on customer feedback
+   - Automated insight generation from structured + unstructured data  
+
+✔ Integrated Cortex AI with Snowflake tables to enable business users to query data using plain English  
+✔ Designed pipelines combining structured data (warehouse) and unstructured data (reviews, logs)
+
+---
   
 - 📫 How to reach me: khedekarswati75@gmail.com
 - **kaggle**: https://www.kaggle.com/swatikhedekar
