@@ -37,11 +37,8 @@ I enjoy transforming raw data into actionable insights and building scalable dat
 
 ---
   
-- 📫 How to reach me: khedekarswati75@gmail.com
-- **kaggle**: https://www.kaggle.com/swatikhedekar
-- **linkedin**: https://www.linkedin.com/in/swati-khedekar/
-- **NovyPro** : https://www.novypro.com/project/expenditure-data-analysis-dashboard
-- **Medium** : https://medium.com/@khedekarswati
+- 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swati-blue?logo=linkedin)](https://www.linkedin.com/in/swati-khedekar/)
 <!---
 Swatikhedekar/Swatikhedekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
