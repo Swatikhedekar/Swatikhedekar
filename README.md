@@ -1,7 +1,7 @@
 ## Hello Thank you for visiting on my Profile!!
 👋 Hi, I’m Swati Khedekar,
   
-I am Data professional with 3+ years of experience in Python, SQL, Power BI, Snowflake, AWS, Azure, Matillion, and Alteryx ETL. Successfully transitioned from a mechanical engineer to Data Analyst.
+I am Data professional with 3+ years of experience in Python, SQL, Power BI, Snowflake, AWS, Matillion, and Alteryx ETL. Successfully transitioned from a mechanical engineer to Data Analyst.
 
 I enjoy transforming raw data into actionable insights and building scalable data pipelines.
 ---
